@@ -1,2 +1,6 @@
 # AI_pi_RL
 AI派的第二轮测试关于强化学习方面的作业
+
+其中笔记文件是我在学习过程中用goodnote记录下的部分学习历程
+
+RL作业文件是我用jupyter notebook写的使用Q—learning法学习的，并将最终的效果输出为taxi.gif文件
